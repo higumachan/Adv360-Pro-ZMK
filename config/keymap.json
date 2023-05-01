@@ -38,7 +38,7 @@
        "&trans",          "&trans", "&trans",   "&trans",     "&trans",      "&trans",           "&trans",                                                             "&trans",    "&trans",        "&trans",       "&trans",               "&trans",                "&trans", "&trans",
        "&trans",          "&kp N1", "&kp N2",   "&kp N3",     "&kp N4",      "&kp N5",           "&trans",                                                             "&trans",    "&kp N6",        "&kp N7",       "&kp N8",               "&kp N9",                "&kp N0", "&trans",
        "&trans", "&kp EXCLAMATION", "&kp AT", "&kp HASH", "&kp DOLLAR", "&kp PERCENT",            "&none", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&kp CARET", "&kp AMPERSAND", "&kp ASTERISK", "&kp LEFT_PARENTHESIS", "&kp RIGHT_PARENTHESIS", "&trans",
-       "&trans",          "&trans", "&trans",   "&trans",     "&trans",      "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans",    "&trans",        "&trans",       "&trans",               "&trans",                "&trans", "&trans",
+       "&trans",          "&trans", "&trans",   "&trans",     "&trans",      "&trans",           "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&trans", "&kp GRAVE",     "&kp TILDE",       "&trans",               "&trans",                "&trans", "&trans",
        "&trans",          "&trans", "&trans",   "&trans",     "&trans",                          "&trans", "&trans", "&trans",                     "&trans", "&trans", "&trans",                     "&trans",       "&trans",               "&trans",                "&trans", "&trans"
     ]
   ]
