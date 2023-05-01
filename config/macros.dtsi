@@ -1,12 +1,12 @@
-macro_->f: macro_->f{
+macro_arrow: macro_arrow{
 compatible = "zmk,behavior-macro";
-label = "macro_->f";
+label = "macro_arrow";
 #binding-cells = <0>;
 bindings = <&kp MINUS>, <&kp GT>;
 };
-macro_=>: macro_=>{
+macro_eq_arrow: macro_eq_arrow{
 compatible = "zmk,behavior-macro";
-label = "macro_=>";
+label = "macro_eq_arrow";
 #binding-cells = <0>;
 bindings = <&kp EQUAL>, <&kp GT>;
 };
